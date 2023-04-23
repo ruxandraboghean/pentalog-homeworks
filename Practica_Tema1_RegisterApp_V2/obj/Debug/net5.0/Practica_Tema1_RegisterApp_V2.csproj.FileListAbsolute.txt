@@ -1,0 +1,16 @@
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\bin\Debug\net5.0\Practica_Tema1_RegisterApp_V2.exe
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\bin\Debug\net5.0\Practica_Tema1_RegisterApp_V2.deps.json
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\bin\Debug\net5.0\Practica_Tema1_RegisterApp_V2.runtimeconfig.json
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\bin\Debug\net5.0\Practica_Tema1_RegisterApp_V2.runtimeconfig.dev.json
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\bin\Debug\net5.0\Practica_Tema1_RegisterApp_V2.dll
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\bin\Debug\net5.0\ref\Practica_Tema1_RegisterApp_V2.dll
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\bin\Debug\net5.0\Practica_Tema1_RegisterApp_V2.pdb
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.csproj.AssemblyReference.cache
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.AssemblyInfoInputs.cache
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.AssemblyInfo.cs
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.csproj.CoreCompileInputs.cache
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.dll
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\ref\Practica_Tema1_RegisterApp_V2.dll
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.pdb
+C:\Users\Ruxandra\source\repos\Practica_Tema1_RegisterApp_V2\Practica_Tema1_RegisterApp_V2\obj\Debug\net5.0\Practica_Tema1_RegisterApp_V2.genruntimeconfig.cache

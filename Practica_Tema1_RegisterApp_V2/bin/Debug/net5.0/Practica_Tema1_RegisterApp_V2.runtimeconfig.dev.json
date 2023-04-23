@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ruxandra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ruxandra\\.nuget\\packages"
+    ]
+  }
+}
