@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyFinder.Api", "MonkeyFinder\MonkeyFinder.Api.csproj", "{70C3BB7F-CD59-4CD6-AEAB-8B957E13D6AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Presentation", "01 Presentation", "{AE299360-3C25-4799-8C13-33C389D34709}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Application", "02 Application", "{0CF82DDC-6F3D-43A2-ABD2-FCBD81C24C38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Infrastructure", "03 Infrastructure", "{1F51B555-E640-485F-82BB-39FD4A0F2A89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Core", "04 Core", "{79425997-D1CF-4BC1-98A8-1867BDDD018D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Integration Tests", "05 Integration Tests", "{0AFF23BF-61B7-4DD3-A534-51EAA08B16DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Unit Tests", "06 Unit Tests", "{7D831CC9-85A9-4843-B6B7-D9E521B4A02E}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MonkeyFinder.Database", "MonkeyFinder.Database\MonkeyFinder.Database.sqlproj", "{75B52355-C2F7-442F-A601-705BA76414A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyFinder.DataAccess", "MonkeyFinder.DataAccess\MonkeyFinder.DataAccess.csproj", "{892AC957-FEAD-4FF3-96D4-8AD6AD113867}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyFinder.Repository", "MonkeyFinder.Repository\MonkeyFinder.Repository.csproj", "{39D6102D-029F-4159-BEFC-83E6C5601D30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyFinder.Core", "MonkeyFinder.Core\MonkeyFinder.Core.csproj", "{EBE7EFB0-A1BF-4203-AAF3-6DE26D16FE0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyFinder.Services", "MonkeyFinder.Services\MonkeyFinder.Services.csproj", "{B521A966-3BE2-4655-95DC-596BC563F3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C3BB7F-CD59-4CD6-AEAB-8B957E13D6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C3BB7F-CD59-4CD6-AEAB-8B957E13D6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C3BB7F-CD59-4CD6-AEAB-8B957E13D6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C3BB7F-CD59-4CD6-AEAB-8B957E13D6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B52355-C2F7-442F-A601-705BA76414A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B52355-C2F7-442F-A601-705BA76414A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B52355-C2F7-442F-A601-705BA76414A2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{75B52355-C2F7-442F-A601-705BA76414A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B52355-C2F7-442F-A601-705BA76414A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B52355-C2F7-442F-A601-705BA76414A2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{892AC957-FEAD-4FF3-96D4-8AD6AD113867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892AC957-FEAD-4FF3-96D4-8AD6AD113867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892AC957-FEAD-4FF3-96D4-8AD6AD113867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892AC957-FEAD-4FF3-96D4-8AD6AD113867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D6102D-029F-4159-BEFC-83E6C5601D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D6102D-029F-4159-BEFC-83E6C5601D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D6102D-029F-4159-BEFC-83E6C5601D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D6102D-029F-4159-BEFC-83E6C5601D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE7EFB0-A1BF-4203-AAF3-6DE26D16FE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE7EFB0-A1BF-4203-AAF3-6DE26D16FE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE7EFB0-A1BF-4203-AAF3-6DE26D16FE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE7EFB0-A1BF-4203-AAF3-6DE26D16FE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B521A966-3BE2-4655-95DC-596BC563F3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B521A966-3BE2-4655-95DC-596BC563F3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B521A966-3BE2-4655-95DC-596BC563F3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B521A966-3BE2-4655-95DC-596BC563F3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70C3BB7F-CD59-4CD6-AEAB-8B957E13D6AB} = {AE299360-3C25-4799-8C13-33C389D34709}
+		{75B52355-C2F7-442F-A601-705BA76414A2} = {1F51B555-E640-485F-82BB-39FD4A0F2A89}
+		{892AC957-FEAD-4FF3-96D4-8AD6AD113867} = {1F51B555-E640-485F-82BB-39FD4A0F2A89}
+		{39D6102D-029F-4159-BEFC-83E6C5601D30} = {1F51B555-E640-485F-82BB-39FD4A0F2A89}
+		{EBE7EFB0-A1BF-4203-AAF3-6DE26D16FE0E} = {79425997-D1CF-4BC1-98A8-1867BDDD018D}
+		{B521A966-3BE2-4655-95DC-596BC563F3A5} = {0CF82DDC-6F3D-43A2-ABD2-FCBD81C24C38}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F6E810-499A-45BA-BC3F-D0C8297BE7A4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MonkeyFinder.Core\MonkeyFinder.Core.csproj" />
+    <ProjectReference Include="..\MonkeyFinder.DataAccess\MonkeyFinder.DataAccess.csproj" />
+    <ProjectReference Include="..\MonkeyFinder.Services\MonkeyFinder.Services.csproj" />
+  </ItemGroup>
+
+</Project>
